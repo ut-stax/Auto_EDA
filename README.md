@@ -1,4 +1,4 @@
-````markdown
+
 # 🔍 autoEDA – Automated Exploratory Data Analysis Web App
 
 Welcome to **autoEDA**, a beginner-friendly and powerful web application built with **Streamlit** that helps you perform **Automated Exploratory Data Analysis** (EDA) on your datasets with just a few clicks.
