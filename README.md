@@ -71,11 +71,29 @@ streamlit run auto_eda.py
 
 ## 📸 Screenshots
 
-> 🖼️ Add screenshots here of:
->
-> * File upload screen
-> * Data preview
-> * Report download button
+Here’s a quick visual walkthrough of the app interface and the generated EDA report:
+
+### 🗂️ 1. File Upload Interface
+
+Drag and drop your `.csv` or `.json` file easily.
+
+![File Upload](upload.png)
+
+---
+
+### 🧾 2. Data Preview Table
+
+Once uploaded, get a quick preview of the first few rows.
+
+![Data Preview](data_pre.png)
+
+---
+
+### 📊 3. Downloadable EDA Report (HTML)
+
+Auto-generated report includes summary, charts, missing value stats, correlations, and more.
+
+![EDA Report](report.png)
 
 ---
 
