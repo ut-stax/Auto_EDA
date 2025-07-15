@@ -8,6 +8,17 @@ Made with ❤️ by **Utkarsh Tripathi**
 
 ---
 
+## 🌐 Live App
+
+You can try the deployed version of the app here:
+👉 **[autoEDA – Explore Your Data Instantly](https://autoeda-prsscpnjr8ztj3ww8vufcd.streamlit.app/)**
+
+> No setup required — just upload a `.csv` or `.json` file and download your EDA report in seconds!
+
+📌 **Note:** The app may take 10–20 seconds to load for the first time due to Streamlit’s free hosting behavior.
+
+---
+
 ## 📌 Features
 
 ✨ Upload your dataset in **CSV** or **JSON** format  
