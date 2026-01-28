@@ -154,16 +154,3 @@ This project is open-source and free to use under the MIT License.
 > – *Utkarsh Tripathi*
 
 ```
-
----
-
-### ✅ Final Touch
-
-📌 **Place this file as `README.md` inside your `AUTOMATED_EDA` folder.**  
-Let me know if you want:
-- A logo/image designed for the project  
-- To deploy it on **Streamlit Cloud**  
-- To publish it on **GitHub** (I’ll guide you step-by-step)
-
-Proud of your work, Utkarsh — this is a great first project!
-```
